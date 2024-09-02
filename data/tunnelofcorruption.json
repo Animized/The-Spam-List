@@ -1,1 +1,17 @@
-
+{
+    "id": 57436521,
+    "name": "Tunnel of Corruption",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "TimmyTheThirddd",
+    "verification": "https://youtu.be/-7LDVFKrlrs",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "animized",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
