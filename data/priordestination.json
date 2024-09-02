@@ -1,0 +1,17 @@
+{
+    "id": 103004456,
+    "name": "Prior Destination",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/yQwUiPktamU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+   "records": [
+         {
+            "user": "TimmyTheThirddd",	
+            "percent": 100,	
+            "hz": 360
+        }
+   ]
+}
