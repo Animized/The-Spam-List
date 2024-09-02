@@ -1,0 +1,17 @@
+{
+    "id": 96789812,
+    "name": "Timmy Circles",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "TimmyTheThirddd",
+    "verification": "https://youtu.be/_0O9Fjdb2oE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+   "records": [
+         {
+            "user": "Animized",	
+            "percent": 100,	
+            "hz": 360
+        }
+   ]
+}
