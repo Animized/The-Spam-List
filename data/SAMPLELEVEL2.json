@@ -6,6 +6,11 @@
     "verifier": "Animized",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
-    ]
+   "records": [
+         {
+            "user": "TimmyTheThirddd",	
+            "percent": 100,	
+            "hz": 360
+        }
+   ]
 }
