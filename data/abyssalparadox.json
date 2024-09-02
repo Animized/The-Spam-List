@@ -1,0 +1,17 @@
+{
+    "id": 101629413,
+    "name": "Abyssal Paradox",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/kTe87hsYQQ4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+   "records": [
+         {
+            "user": "TimmyTheThirddd",	
+            "percent": 100,	
+            "hz": 360
+        }
+   ]
+}
