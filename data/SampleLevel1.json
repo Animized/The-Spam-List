@@ -6,5 +6,13 @@
     "verifier": "TimmyTheThirddd",
     "verification": "https://youtu.be/eILd5f6_Xug",
     "percentToQualify": 100,
-    "password": "Free Copy"
+    "password": "Free Copy",
+    "records": [
+         {
+            "user": "Skibidi dop dop im not deafendiong you when tyou say fart",	
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",	
+            "percent": 100,	
+            "hz": 360
+        }
+   ]
 }
