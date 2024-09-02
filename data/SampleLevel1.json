@@ -1,15 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 109766400,
+    "name": "The Ultimate Fella",
+    "author": "TimmyTheThirddd",
+    "creators": ["TimmyTheThirddd"],
+    "verifier": "TimmyTheThirddd",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Skibidi dop dop im not deafendiong you when tyou say fart",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
