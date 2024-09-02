@@ -1,0 +1,17 @@
+{
+    "id": 57436521,
+    "name": "takeitlikeagoodboy",
+    "author": "jaysololol",
+    "creators": ["jaysololol"],
+    "verifier": "jaysololol",
+    "verification": "https://www.youtube.com/watch?v=7m99T3N5Tm8",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "animized",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
