@@ -103,7 +103,7 @@ export default {
                     </p>
                     <h3>Level Requirements</h3>
                     <p>
-                        Your level must be spam based. This can be click spam, gameplay spam, wave spam, CPS challenges, etc. The ENTIRE level does not have to be spam.
+                        Your level must be spam based. This can be click spam, gameplay spam, wave challenge, CPS challenges, etc. The ENTIRE level does not have to be spam.
                     </p>
                     <p>
                         Level must be at least 5 seconds, and at most 3 minutes
