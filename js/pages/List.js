@@ -106,7 +106,7 @@ export default {
                         Your level must be spam based. This can be click spam, gameplay spam, wave challenge, CPS challenges, etc. The ENTIRE level does not have to be spam.
                     </p>
                     <p>
-                        Level must be at least 5 seconds, and at most 3 minutes
+                        Level must be at least 5 seconds, and at most 90 seconds
                     </p>
                     <p>
                         The level cannot be FULLY invisible meaning there must be some sort of indication on how to play the level - The layout cannot be fully invisible.
