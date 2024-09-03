@@ -1,1 +1,17 @@
- 
+{
+    "id": 109314220,
+    "name": "silent wave",
+    "author": "By6f",
+    "creators": ["By6f"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/c4SyUG0kreE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+   "records": [
+         {
+            "user": "By6f",	
+            "percent": 100,
+            "hz": 360
+        }
+   ]
+} 
