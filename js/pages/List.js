@@ -106,7 +106,7 @@ export default {
                         Any style challenge may be made for this list, as long as the difficulty isn't too much easier than the bottom most level, and the level can't just be like almost impossible VSC difficulty gameplay.
                     </p>
                     <p>
-                        Level must be at least 5 seconds, and at most 4 minutes
+                        Level must be at least 3 seconds, and at most 4 minutes
                     </p>
                     <p>
                         The level cannot be FULLY invisible meaning there must be some sort of indication on how to play the level - The layout cannot be fully invisible.
