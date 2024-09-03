@@ -99,7 +99,7 @@ export default {
                         </ol>
                     </template>
                     <p>
-                        JOIN THE DISCORD TO SUBMIT RECORDS
+                        JOIN THE DISCORD TO SUBMIT RECORDS & LEVELS
                     </p>
                     <h3>Level Requirements</h3>
                     <p>
