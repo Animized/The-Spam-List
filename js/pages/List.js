@@ -99,6 +99,12 @@ export default {
                         </ol>
                     </template>
                     <h3>Level Requirements</h3>
+                    <p>
+                        Any style challenge may be made for this list, as long as the difficulty isn't too much easier than the bottom most level, and the level can't just be like almost impossible VSC difficulty gameplay.
+                    </p>
+                    <p>
+                        Level must be at least 5 seconds, and at most 4 minutes
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
