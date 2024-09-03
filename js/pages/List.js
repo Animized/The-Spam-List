@@ -114,9 +114,6 @@ export default {
                     <p>
                         Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
                     </p>
-                    <p>
-                        Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
-                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
