@@ -10,21 +10,25 @@
     "records": [
          {
             "user": "Animized",	
-            "percent": 100	
+            "percent": 100,
+            "hz": 360	
         },
          {
             "user": "jaysololol",	
-            "percent": 100
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "Apollowrld",	
             "link": "https://youtu.be/RigEzVFSVx4?si=RJ0g3UK2z9Nq6Dm8",
-            "percent": 100
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "VEFU",	
             "link": "https://youtu.be/RigEzVFSVx4?si=RJ0g3UK2z9Nq6Dm8",
-            "percent": 100
+            "percent": 100,
+            "hz": 360
         }
    ]
 }
