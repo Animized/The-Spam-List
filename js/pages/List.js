@@ -105,6 +105,15 @@ export default {
                     <p>
                         Level must be at least 5 seconds, and at most 4 minutes
                     </p>
+                    <p>
+                        The level cannot be FULLY invisible meaning there must be some sort of indication on how to play the level - The layout cannot be fully invisible.
+                    </p>
+                    <p>
+                        Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
+                    </p>
+                    <p>
+                        Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
