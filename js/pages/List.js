@@ -98,6 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <p>
+                        JOIN THE DISCORD TO SUBMIT RECORDS
+                    </p>
                     <h3>Level Requirements</h3>
                     <p>
                         Any style challenge may be made for this list, as long as the difficulty isn't too much easier than the bottom most level, and the level can't just be like almost impossible VSC difficulty gameplay.
