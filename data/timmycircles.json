@@ -10,8 +10,7 @@
    "records": [
          {
             "user": "Animized",	
-            "percent": 100,	
-            "hz": 360
+            "percent": 100
         }
    ]
 }
