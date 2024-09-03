@@ -10,13 +10,11 @@
     "records": [
         {
             "user": "animized",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "TimmyTheThirddd",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         }
     ]
 }
