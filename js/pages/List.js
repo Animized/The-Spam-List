@@ -98,6 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Level Requirements</h3>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
