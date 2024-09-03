@@ -12,7 +12,6 @@ const scale = 3;
  */
 export function score(rank, percent, minPercent) {
     if (rank > 5) {
-        rank = "Legacy";
         return 0;
     }
     if (rank > 75 && percent < 100) {
