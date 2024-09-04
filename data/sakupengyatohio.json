@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/6K1U0GWkKmg",
     "percentToQualify": "100",
     "password": "Free To Copy",
-   "records": []
-}
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "link": "https://youtu.be/2bjYQYkjXK0",	
+           "percent": 100,
+           "hz": 360
+       }
+  ]
+} 
