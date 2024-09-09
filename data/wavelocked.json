@@ -1,0 +1,22 @@
+{
+    "id": 109985628,
+    "name": "Wavelocked",
+    "author": "Afrony",
+    "creators": ["Afrony"],
+    "verifier": "Afrony",
+    "verification": "https://youtu.be/g4xQZGrIsFM?si=9YJrrMDYnz7YgiFH",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",		
+           "percent": 100,
+           "hz": 360
+       },
+       {
+        "user": "Animized",		
+        "percent": 100,
+        "hz": 360
+    }
+  ]
+} 
