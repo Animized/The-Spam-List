@@ -103,7 +103,7 @@ export default {
                     </p>
                     <h3>Level Requirements</h3>
                     <p>
-                        Your level must be spam based. This can be click spam, gameplay spam, wave challenge, CPS challenges, etc. The ENTIRE level does not have to be spam.
+                        Your level must be spam based. This can be click spam, gameplay spam, wave challenge, CPS challenges, etc. The ENTIRE level does not have to be spam, but some/most of the difficulty must come from spam related gameplay.
                     </p>
                     <p>
                         Level must be at least 5 seconds, and at most 90 seconds
@@ -114,6 +114,10 @@ export default {
                     <p>
                         Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
                     </p>
+                    <p>
+                        Maxiumum TIMED CPS in a level is 10. (Wave spam, any spam that includes a timed hold and release) Maximum CPS with no timings in a level is 15. (Ufo spam, cube orb spam)
+                    </p>
+                    
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
