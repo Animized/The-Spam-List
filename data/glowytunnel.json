@@ -1,0 +1,17 @@
+{
+    "id": 110011441,
+    "name": "Glowy Tunnel",
+    "author": "by6f",
+    "creators": ["by6f"],
+    "verifier": "n0fap",
+    "verification": "https://youtu.be/i9jxjLR6-9I?si=G1MHcM_Dq1a8ad4h",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "percent": 100,
+           "hz": 360
+       }
+  ]
+} 
