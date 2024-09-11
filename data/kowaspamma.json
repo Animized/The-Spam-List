@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/x2zYPeTpUCk",
     "percentToQualify": "100",
     "password": "Free To Copy",
-   "records": [ ]
+    "records": [
+        {
+            "user": "n0fap",
+            "link": "https://www.youtube.com/watch?v=jillgssUHQ4",	
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
