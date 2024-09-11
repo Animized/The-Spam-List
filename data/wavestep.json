@@ -1,0 +1,27 @@
+{
+    "id": 110015220,
+    "name": "wavestep",
+    "author": "Afrony",
+    "creators": ["Afrony"],
+    "verifier": "Afrony",
+    "verification": "https://youtu.be/eUmk3WF563E?si=zQ6iimxb0zTVEAFR",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "percent": 100,
+           "hz": 360
+       },
+       {
+        "user": "dogboi320",	
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "Animized",	
+        "percent": 100,
+        "hz": 360
+    }
+  ]
+} 
