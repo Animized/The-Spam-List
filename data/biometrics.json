@@ -1,0 +1,17 @@
+{
+    "id": 110048441,
+    "name": "Biometrics",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Drakanja",
+    "verification": "https://youtu.be/Ap0cxu4Wthg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "percent": 100,
+           "hz": 360
+       }
+  ]
+} 
