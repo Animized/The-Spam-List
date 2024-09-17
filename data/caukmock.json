@@ -8,11 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
    "records": [
-    {
-        "user": "n0fap",
-        "link": "https://www.youtube.com/watch?v=sjJdqIwGyVY",	
-        "percent": 100,
-        "hz": 360
-    }
+        {
+            "user": "n0fap",
+            "link": "https://www.youtube.com/watch?v=sjJdqIwGyVY",	
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "0Hex",
+            "link": "https://youtu.be/g9bE5fwrRPA",	
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
