@@ -1,0 +1,22 @@
+{
+    "id": 110307176,
+    "name": "Egg timer",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/Zu8t86vnZFA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "percent": 100,
+           "hz": 360
+       },
+       {
+        "user": "Deathrange",	
+        "percent": 100,
+        "hz": 360
+    }
+  ]
+} 
