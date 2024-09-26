@@ -1,0 +1,17 @@
+{
+    "id": 110297519,
+    "name": "CAKE AK47",
+    "author": "by6f",
+    "creators": ["by6f"],
+    "verifier": "by6f",
+    "verification": "https://youtu.be/bF72p_iDbMQ?si=zsHYA-rOpLgJruUc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+   "records": [
+        {
+            "user": "Animized",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
