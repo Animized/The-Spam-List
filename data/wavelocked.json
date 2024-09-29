@@ -17,24 +17,36 @@
         "user": "Animized",		
         "percent": 100,
         "hz": 360
-    },
-    {
+      },
+       {
       "user": "n0fap",
       "link": "https://www.youtube.com/watch?v=tL-ZAFWeQCY",	
       "percent": 100,
       "hz": 360
-  },
-  {
-    "user": "0Hex",
-    "link": "https://youtu.be/XBfg3Spc7H0",	
-    "percent": 100,
-    "hz": 360
-},
-{
-  "user": "Firzo",
-  "link": "https://www.youtube.com/watch?v=xpS5KbYIODM",	
-  "percent": 100,
-  "hz": 360
+     },
+       {
+         "user": "0Hex",
+         "link": "https://youtu.be/XBfg3Spc7H0",	
+         "percent": 100,
+         "hz": 360
+      },
+      {
+         "user": "Firzo",
+        "link": "https://www.youtube.com/watch?v=xpS5KbYIODM",	
+         "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Kujiua",
+        "link": "https://youtu.be/QgGCIAZeLm0?si=KGenmLADGltfPtY8",	
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "MetroZ",
+        "link": "https://www.youtube.com/watch?v=lF-5eB9r5s8",	
+        "percent": 100,
+        "hz": 360
+      }
+    ]
 }
-  ]
-} 

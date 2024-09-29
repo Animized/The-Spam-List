@@ -115,7 +115,7 @@ export default {
                         Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
                     </p>
                     <p>
-                        Maxiumum TIMED CPS in a level is 10. (Wave spam, any spam that includes a timed hold and release) Maximum CPS with no timings in a level is 15. (Ufo spam, cube orb spam)
+                        Maxiumum TIMED CPS in a level is 10. (Wave spam, any spam that includes a timed hold and release) Maximum CPS with no timings in a level is 20. (Ufo spam, cube orb spam)
                     </p>
                     
                     <h3>Submission Requirements</h3>

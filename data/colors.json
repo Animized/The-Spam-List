@@ -7,5 +7,12 @@
     "verification": "https://youtube.com/shorts/8tG0FiXxhTk?si=Bytp8mcRob1WjvrU",
     "percentToQualify": "100",
     "password": "Free To Copy",
-   "records": [ ]
+    "records": [
+        {
+            "user": "MetroZ",
+            "link": "https://www.youtube.com/watch?v=ChtLnuEU5jg",	
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
