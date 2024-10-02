@@ -1,0 +1,17 @@
+{
+    "id": 110681748,
+    "name": "Lonely",
+    "author": "MetroZ",
+    "creators": ["MetroZ"],
+    "verifier": "MetroZ",
+    "verification": "https://www.youtube.com/watch?v=BIN2NCFsThw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+           "user": "Animized",	
+           "percent": 100,
+           "hz": 360
+       }
+  ]
+} 
