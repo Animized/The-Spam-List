@@ -34,6 +34,12 @@
         "link": "https://www.youtube.com/watch?v=1lkZEdji4wA",	
         "percent": 100,
         "hz": 360
+    },
+    {
+        "user": "waves",
+        "link": "https://youtu.be/7En8TmuuxmM",	
+        "percent": 100,
+        "hz": 360
     }
   ]
 } 
