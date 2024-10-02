@@ -12,6 +12,18 @@
             "user": "Animized",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "waves",
+            "link": "https://youtu.be/3MqxN1aGIr8",	
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jwggamer",
+            "link": "https://www.youtube.com/watch?v=cx-dcttUFoQ",	
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
