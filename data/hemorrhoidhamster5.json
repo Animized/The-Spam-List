@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=bZrl4ftJMNQ",
     "percentToQualify": 100,
     "password": "Free Copy",
-    "records": [ ]
+    "records": [
+        {
+           "user": "axellz",	
+           "link": "https://youtu.be/o-BaXgz1i6s",	
+           "percent": 100,
+           "hz": 360
+       }
+    ]
 }
