@@ -12,6 +12,12 @@
            "user": "Animized",	
            "percent": 100,
            "hz": 360
+       }, 
+        {
+           "user": "waves",	
+           "link": "https://youtu.be/9j0ZThs863I",	
+           "percent": 100,
+           "hz": 360
        }
   ]
 } 
