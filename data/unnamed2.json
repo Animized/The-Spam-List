@@ -1,0 +1,17 @@
+{
+    "id": 110871591,
+    "name": "unnamed 2",
+    "author": "MetroZ",
+    "creators": ["MetroZ"],
+    "verifier": "MetroZ",
+    "verification": "https://www.youtube.com/watch?v=kw3djGYOqjo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Animized",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
