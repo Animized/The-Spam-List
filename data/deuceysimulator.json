@@ -7,5 +7,21 @@
     "verification": "https://youtu.be/CroxtkFaa6w",
     "percentToQualify": 100,
     "password": "Free Copy",
-    "records": [ ]
-}
+    "records": [
+        {
+           "user": "Duck",	
+           "percent": 100,
+           "hz": 360
+       },
+       {
+        "user": "TimmyTheThirddd",	
+        "percent": 100,
+        "hz": 360
+    },
+    {
+        "user": "Ayako",	
+        "percent": 100,
+        "hz": 360
+    }
+  ]
+} 
