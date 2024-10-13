@@ -17,6 +17,11 @@
             "user": "VEFU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "zKirbo",	
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
