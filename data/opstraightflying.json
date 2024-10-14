@@ -27,6 +27,12 @@
         "user": "electricgmd",	
         "percent": 100,
         "hz": 360
+    },
+    {
+        "user": "n0fap",	
+        "link": "https://www.youtube.com/watch?v=93yh_vLXyHQ",	
+        "percent": 100,
+        "hz": 360
     }
     ]
 }
