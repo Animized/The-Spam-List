@@ -5,13 +5,7 @@
     "creators": ["Drakanja"],
     "verifier": "Drakanja",
     "verification": "https://www.youtube.com/watch?v=A3m7DlGAYVM",
-    "percentToQualify": 26,
+    "percentToQualify": 32,
     "password": "Free Copy",
-    "records": [
-        {
-            "user": "Animized",
-            "percent": 26,
-            "hz": 360
-        }
-    ]
+    "records": [ ]
 }
