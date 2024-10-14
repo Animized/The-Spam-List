@@ -106,6 +106,9 @@ export default {
                         Your level must be spam based. This can be click spam, gameplay spam, wave challenge, CPS challenges, etc. The ENTIRE level does not have to be spam, but some/most of the difficulty must come from spam related gameplay.
                     </p>
                     <p>
+                        Your level must be completely original. (Unless making a silent version of another level on the list) No gameplay or deco can be taken from other levels and put into your challenge without major adjustements. The meaning of this is to be determined by list mods.
+                    </p>
+                    <p>
                         Level must be at least 5 seconds, and at most 3 minutes
                     </p>
                     <p>
