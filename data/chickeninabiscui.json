@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Sec_uJlleRo",
     "percentToQualify": 100,
     "password": "Free Copy",
-    "records": [ ]
-}
+    "records": [
+        {
+           "user": "zKirboGD",	
+           "percent": 100,
+           "hz": 360
+       }
+  ]
+} 
