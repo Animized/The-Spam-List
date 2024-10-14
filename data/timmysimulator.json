@@ -1,0 +1,22 @@
+{
+    "id": 111080964,
+    "name": "timmy simulator",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/zKfhHs-WyYo",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+           "user": "TimmyTheThirddd",	
+           "percent": 100,
+           "hz": 360
+       },
+       {
+        "user": "zKirboGD",	
+        "percent": 100,
+        "hz": 360
+    }
+  ]
+} 
