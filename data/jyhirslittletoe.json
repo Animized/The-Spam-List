@@ -1,0 +1,22 @@
+{
+    "id": 110874725,
+    "name": "Jyhirs little toe",
+    "author": "Animized",
+    "creators": ["Animized"],
+    "verifier": "Animized",
+    "verification": "https://youtu.be/IePQKZafpkE",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "JoshuahDark",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zKirboGD",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
