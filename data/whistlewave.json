@@ -1,0 +1,17 @@
+{
+    "id": 105578883,
+    "name": "Whistle Wave",
+    "author": "by6f",
+    "creators": ["by6f"],
+    "verifier": "Polaris",
+    "verification": "https://www.youtube.com/watch?v=7q6lVR3gxIY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+           "user": "Animized",	
+           "percent": 100,
+           "hz": 360
+       }
+    ]
+}
