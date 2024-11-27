@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/tNMKnFI93mE?si=rXY_QJyLDDrp3XD7",
     "percentToQualify": 100,
     "password": "Free Copy",
-    "records": [ ]
+    "records": [
+    {
+        "user": "Drakanja",
+        "percent": 100,
+        "hz": 360
+    }
+]
 }
