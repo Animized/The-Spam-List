@@ -19,6 +19,11 @@
         "name": "gltdeem"
     },
     {
+        "role": "admin",
+        "name": "standinghorse",
+        "link": "https://www.youtube.com/@standinghorse_"
+    },
+    {
         "role": "helper",
         "name": "TimmyTheThirddd",
         "link": "https://www.youtube.com/@TimmyTheThirddd"
@@ -56,5 +61,10 @@
     {
         "role": "dev",
         "name": "gltdeem"
+    },
+    {
+        "role": "dev",
+        "name": "standinghorse",
+        "link": "https://www.youtube.com/@standinghorse_"
     }
 ]
