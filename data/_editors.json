@@ -15,6 +15,10 @@
         "link": "https://www.youtube.com/@MetroZ21"
     },
     {
+        "role": "admin",
+        "name": "gltdeem"
+    },
+    {
         "role": "helper",
         "name": "TimmyTheThirddd",
         "link": "https://www.youtube.com/@TimmyTheThirddd"
@@ -48,5 +52,9 @@
         "role": "dev",
         "name": "MetroZ",
         "link": "https://www.youtube.com/@MetroZ21"
+    },
+    {
+        "role": "dev",
+        "name": "gltdeem"
     }
 ]
