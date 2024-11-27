@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/channel/UCQW2ZL9N_P16sPFvTHWiLiQ"
     },
     {
+        "role": "admin",
+        "name": "MetroZ",
+        "link": "https://www.youtube.com/@MetroZ21"
+    },
+    {
         "role": "helper",
         "name": "TimmyTheThirddd",
         "link": "https://www.youtube.com/@TimmyTheThirddd"
@@ -26,11 +31,6 @@
     },
     {
         "role": "helper",
-        "name": "MetroZ",
-        "link": "https://www.youtube.com/@MetroZ21"
-    },
-    {
-        "role": "helper",
         "name": "Hootielittle66 (RXJN)",
         "link": "https://www.youtube.com/@Valariegzms"
     },
@@ -43,5 +43,10 @@
         "role": "dev",
         "name": "waves",
         "link": "https://www.youtube.com/channel/UCQW2ZL9N_P16sPFvTHWiLiQ"
+    },
+    {
+        "role": "dev",
+        "name": "MetroZ",
+        "link": "https://www.youtube.com/@MetroZ21"
     }
 ]
