@@ -17,6 +17,12 @@
           "user": "Drakanja",	
           "percent": 100,
           "hz": 360
-      }
+      },
+      {
+        "user": "standinghorse",	
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=bRkIcdGANMs",
+        "hz": 360
+       }
     ]
 }
